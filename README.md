@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sinxode&show_icons=true&theme=matrix" alt="sinxode's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sinxode&show_icons=true&theme=dark" alt="sinxode's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sinxode&layout=compact&theme=dark" alt="sinxode's top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sinxode&layout=compact&theme=midnight" alt="sinxode's top languages" />
-</p>
